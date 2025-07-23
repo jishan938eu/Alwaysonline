@@ -1,6 +1,6 @@
 {
-	"host": "tmmcraft20.aternos.me",
-	"port": "64039",
+	"host": "SUNLAND_SMP.aternos.me",
+	"port": "34344",
 	"username": "tmmcraft20",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
